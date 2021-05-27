@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Text;
 using System.Windows.Media;
-using MSHTML;
 
 namespace Smith.WPF.HtmlEditor
 {

@@ -10,7 +10,7 @@
     <UserControl.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="/HtmlEditorWPF;component/Images.xaml"/>
+                <ResourceDictionary Source="/EasyHtmlEditor;component/Images.xaml"/>
             </ResourceDictionary.MergedDictionaries>
             <Style x:Key="ToolBarImage"
                 TargetType="{x:Type Image}">
