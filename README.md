@@ -8,7 +8,7 @@ This is a fork of [HtmlEditorWPF](https://github.com/LBRNZ/HtmlEditorWPF) wich i
 ![](Readme/preview.PNG?raw=true)
 
 # Discontinued !
-After testing the current functionality, I decided not to use this component and write my own.
+After testing the current functionality, I decided not to use this component and write my own - [WYSitor](https://github.com/Gh61/WYSitor).
 - During the testing it crashed a few times (exceptions coming from commands, other exceptions comming from WinFormsIntegration)
 - New ENTER functionality doesn't work as expected (is inserting 2 new lines)
 - After changing font style (Bold, Italic, ...) and moving the cursor back to editor it selects all the text
